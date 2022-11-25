@@ -5,8 +5,8 @@ import ast
 #uncomment/comment to see the difference in scan results
 #do not enter it will change line number and wont be marked as duplicate
 #AccessKey: "AKIAR1YF3M8L9IBVOUED" 
-# eval("__import__('os').system('clear')", {'__builtins__':{}})
-# print(1)
+eval("__import__('os').system('clear')", {'__builtins__':{}})
+print(1)
 
 SQL_USER=testing
 SQL_PASSWORD=testing
