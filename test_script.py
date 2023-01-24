@@ -62,7 +62,7 @@ def create_config(repo_url:str, org_id:str, connector_slug:str, credential_id:in
   
 
 
-ORGANIZARION_ID = uuid.UUID("73ff0c63-dea0-40e1-a4ed-80102cf90a4c")
+ORGANIZARION_ID = uuid.UUID("xxxxxxxxx")
 CREDENTIAL_MANAGER_ID = 2
 AGENT_ID=1
 
